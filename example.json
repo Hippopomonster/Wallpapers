@@ -1,0 +1,16 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Rush Roque",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
+			"name": "Summer"
+		},
+		{
+			"author": "Rush Roque",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
+			"name": "Tropical"
+		},
+		 
+	]
+}
