@@ -2,14 +2,15 @@
 "wallpapers": 
 	[ 
 		{
-			"author": "Rush Roque",
-			"url": "https://raw.githubusercontent.com/Hippopomonster/Wallpapers/master/summer.png",
-			"name": "Summer"
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
+			"name": "Orange Circles"
 		},
 		{
-			"author": "Rush Roque",
-			"url": "https://raw.githubusercontent.com/Hippopomonster/Wallpapers/master/tropical.png",
-			"name": "Tropical"
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
+			"name": "Purple Circles"
 		}
+		 
 	]
 }
